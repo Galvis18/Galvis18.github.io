@@ -1,16 +1,57 @@
-# Data Scientist
+# Mechanical Engineer & Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Data Visualization (Python), SQL, Finite Element Analysis (FEA)
+Mechanical Engineering:, Vibration Analysis.
+Languages:Python, C++
+Data Visualization : Pandas, Matplot, Seaborn, Dash and Plotly
+Relational Database:PosgreSQL
+Big Data: PySpark
+Engineering software: Ansys, MATLAB, SolidWorks
+Office Package: Word, Excel, Power BI, Visio, PowerPoint and SharePoint
+Mechanical Engineering:Finite Element Analysis (FEA), Vibration Analysis
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+• USP ESALQ | * *São Paulo, Brazil* *
+**MBA Data Science and Analytics** (Dec 2022)
+Thesis: AUTOMATION OF DASHBOARD FOR PERFORMANCE ANALYSIS
+• Universidad Industrial de Santander | * *Bucaramanga, Colombia* *
+**Bachelor in Mechanical Engineering** (Sept 2019)
+Thesis: MODELLING OF GUIDED WAVES DISPERSION CURVES ON A PLATE
+• Universidad Del Norte| * *Barranquilla, Colombia* *
+**Student Exchange** (2014 II – 2015 I)
+Exchange student for one year
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Technical Specialist @ Goldwind South America** | * *August 2021-Present* *
+ São Paulo, Brazil
+– Managed a remote operation center team overseeing 500+ MW wind farms in Brazil, Chile, and Greece, ensuring strict
+compliance with customer requirements and ONS (National Electric System Operator) basic regulation, while monitoring operations 24/7 and overseeing preventative and corrective maintenance processes.
+– Utilized data analytics tools to continuously monitor and analyze real-time turbine performance, developing performance dashboards, generating weekly and monthly reports, and identifying opportunities for enhancing performance
+metrics.
+– Collaborated extensively with Operation and Maintenance (O&M) teams and technical support teams to plan and exe-
+cute maintenance schedules, actively contributing insights for improved key performance indicators (MTBF, MTTR, etc)
+– Utilizing Python data visualization libraries, employ precise techniques to graph specific parameters, ultimately enhancing the performance of wind turbines.
+
+**Technical Support Trainee @ Goldwind South America**| * *January 2020 -August 2021* *
+ São Paulo, Brazil
+– Develop technical training materials and presentations.
+– Provide support for basic analysis and queries within Goldwind’s SCADA system.
+– Offer assistance in translating and implementing quality processes.
+**Internship @ SIAR LTDA** January 2019 - July 2019
+ Bucaramnga, Colombia
+– Selection of a dehumidifier for warehouse file storage.
+– Overseeing the installation of mechanical extensions for bookshelves.
+**Interpreter & Helper Guide @ Expotur S.A.S.** | * *January 2019 - July 2019* *
+Santa Marta, Colombia
+– Providing translation assistance for tourists who don’t speak Spanish and taking responsibility for the safety of the
+tourist group during a 4-day hiking tour through multiple camps.
+– Motivate the group to achieve the daily goals in the established times
+**Intern @ Universidad Industrial de Santnader** | * *January 2018 - July 2018* *
+ Bucaramanga, Colombia
+– Maintenance training helping with the Air Conditioning Equipment and the inventory.
+– Develop knowledge in HVAC
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
