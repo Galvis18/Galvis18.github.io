@@ -1,1 +1,11 @@
-# Galvis18.github.io
+# DATA ANALYST
+
+###Education
+MBA
+### Work Experience
+Data
+- 
+-
+
+##Projects
+
