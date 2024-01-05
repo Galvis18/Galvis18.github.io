@@ -1,7 +1,6 @@
 ## Education
 
-- MBA Data Science and Analytics | **USP ESALQ**   <h1 align="center">São Paulo, Brazil (Jan 2021 - Dec 2022)</h1>
-- 
+- MBA Data Science and Analytics | **USP ESALQ**   at São Paulo, Brazil (Jan 2021 - Dec 2022)
 - B.S. Mechanical Engineering | **Universidad Industrial de Santander** at Bucaramanga, Colombia (Jan 2011 - Sept 2019)
 
 ---
