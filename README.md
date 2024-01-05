@@ -1,16 +1,7 @@
 ## Education
 
-### MBA Data Science and Analytics
-- **USP ESALQ**, São Paulo, Brazil (Jan 2021 - Dec 2022)
-- Thesis: AUTOMATION OF DASHBOARD FOR PERFORMANCE ANALYSIS
-
-### Bachelor in Mechanical Engineering
-- **Universidad Industrial de Santander**, Bucaramanga, Colombia (Jan 2011 - Sept 2019)
-- Thesis: MODELLING OF GUIDED WAVES DISPERSION CURVES ON A PLATE
-
-### Student Exchange
-- **Universidad Del Norte**, Barranquilla, Colombia (2014 II – 2015 I)
-- Exchange student for one year
+- MBA Data Science and Analytics | **USP ESALQ**  <div dir="rtl"> São Paulo, Brazil (Jan 2021 - Dec 2022) </div>
+- B.S. Mechanical Engineering | **Universidad Industrial de Santander** at Bucaramanga, Colombia (Jan 2011 - Sept 2019)
 
 ---
 
