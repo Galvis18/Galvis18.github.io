@@ -1,58 +1,39 @@
-# Leonardo Galvis
-
-![ICON](ICON.png)
-
-- **Mechanical Engineer Data Analyst**
-- **Phone:** +55 11 976631465
-- **Email:** [Galvis18@icloud.com](mailto:Galvis18@icloud.com)
-- **GitHub:** [Galvis18](https://github.com/Galvis18)
-- **LinkedIn:** [Leonardo Galvis](https://linkedin.com/in/leonardo-galvis)
-
----
 
 ## Education
 
-### MBA Data Science and Analytics
-- **USP ESALQ**, São Paulo, Brazil (Jan 2021 - Dec 2022)
-- Thesis: AUTOMATION OF DASHBOARD FOR PERFORMANCE ANALYSIS
+ **MBA Data Science and Analytics** | USP ESALQ 
+ *<p align="right">São Paulo, Brazil ( *Jan 2021 - Dec 2022*)</p>*
 
-### Bachelor in Mechanical Engineering
-- **Universidad Industrial de Santander**, Bucaramanga, Colombia (Jan 2011 - Sept 2019)
-- Thesis: MODELLING OF GUIDED WAVES DISPERSION CURVES ON A PLATE
-
-### Student Exchange
-- **Universidad Del Norte**, Barranquilla, Colombia (2014 II – 2015 I)
-- Exchange student for one year
+ **B.S. Engineering** | Universidad Industrial de Santander
+*<p align="right"> Bucaramanga, Colombia (Jan 2011 - Sept 2019)</p>*
+  
+ **Student Exchange** | Universidad Del Norte                           
+*<p align="right"> Barranquilla, Colombia (2014 II – 2015 I)*
 
 ---
 
 ## Experience
 
-### Technical Specialist
-**Goldwind South America**, São Paulo, Brazil (August 2021 - Present)
+### Technical Specialist @**Goldwind South America**, <sub> *<p align="right">São Paulo, Brazil (August 2021 - Present)</p>*</sub>
 - Managed a remote operation center team overseeing 500+ MW wind farms in Brazil, Chile, and Greece.
 - Utilized data analytics tools to monitor and analyze real-time turbine performance.
 - Collaborated with Operation and Maintenance (O&M) teams for maintenance planning.
 - Utilized Python data visualization libraries for precise graphing.
 
-### Technical Support Trainee
-**Goldwind South America**, São Paulo, Brazil (Jan 2020 - Aug 2021)
+### Technical Support Trainee @**Goldwind South America**, <sub>*<p align="right">São Paulo, Brazil (Jan 2020 - Aug 2021)</p>*
 - Developed technical training materials and presentations.
 - Provided support for basic analysis and queries within Goldwind's SCADA system.
 - Assisted in translating and implementing quality processes.
 
-### Internship
-**SIAR LTDA**, Bucaramanga, Colombia (Jan 2019 - July 2019)
+### Internship@ **SIAR LTDA**, <sub>*<p align="right">Bucaramanga, Colombia (Jan 2019 - July 2019)</sub></p>*
 - Selection of a dehumidifier for warehouse file storage.
 - Oversaw the installation of mechanical extensions for bookshelves.
 
-### Interpreter & Helper Guide
-**Expotur S.A.S.**, Santa Marta, Colombia (Jan 2019 - July 2019)
+### Interpreter & Helper Guide @**Expotur S.A.S.**, <sub>*<p align="right">Santa Marta, Colombia (Jan 2019 - July 2019)</sub></p>*
 - Provided translation assistance for tourists.
 - Took responsibility for the safety of the tourist group during a 4-day hiking tour.
 
-### Intern
-**Universidad Industrial de Santander**, Bucaramanga, Colombia (Jan 2018 - July 2018)
+### Intern @**Universidad Industrial de Santander**, <sub>*<p align="right">Bucaramanga, Colombia (Jan 2018 - July 2018)</p>*</sub>
 - Maintenance training and assistance with Air Conditioning Equipment.
 
 ---
