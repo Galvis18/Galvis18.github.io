@@ -1,93 +1,113 @@
-# Mechanical Engineer & Data Analyst
+# Leonardo Galvis
 
-#### Technical Skills: Data Visualization (Python), SQL, Finite Element Analysis (FEA)
-+Mechanical Engineering:, Vibration Analysis.
-+Languages:Python, C++
-+Data Visualization : Pandas, Matplot, Seaborn, Dash and Plotly
-+Relational Database:PosgreSQL
-+Big Data: PySpark
-+Engineering software: Ansys, MATLAB, SolidWorks
-+Office Package: Word, Excel, Power BI, Visio, PowerPoint and SharePoint
-+Mechanical Engineering:Finite Element Analysis (FEA), Vibration Analysis
+![ICON](ICON.png)
+
+- **Mechanical Engineer Data Analyst**
+- **Phone:** +55 11 976631465
+- **Email:** [Galvis18@icloud.com](mailto:Galvis18@icloud.com)
+- **GitHub:** [Galvis18](https://github.com/Galvis18)
+- **LinkedIn:** [Leonardo Galvis](https://linkedin.com/in/leonardo-galvis)
+
+---
 
 ## Education
-* USP ESALQ | * *São Paulo, Brazil* *
--**MBA Data Science and Analytics** (Dec 2022)
-+Thesis: AUTOMATION OF DASHBOARD FOR PERFORMANCE ANALYSIS
-*Universidad Industrial de Santander | * *Bucaramanga, Colombia* *
--**Bachelor in Mechanical Engineering** (Sept 2019)
-+Thesis: MODELLING OF GUIDED WAVES DISPERSION CURVES ON A PLATE
-*Universidad Del Norte| * *Barranquilla, Colombia* *
--**Student Exchange** (2014 II – 2015 I)
-+Exchange student for one year
 
+### MBA Data Science and Analytics
+- **USP ESALQ**, São Paulo, Brazil (Jan 2021 - Dec 2022)
+- Thesis: AUTOMATION OF DASHBOARD FOR PERFORMANCE ANALYSIS
 
-## Work Experience
-+**Technical Specialist @ Goldwind South America** | * *August 2021-Present* *
- São Paulo, Brazil
- – Managed a remote operation center team overseeing 500+ MW wind farms in Brazil, Chile, and Greece, ensuring strict compliance with customer requirements and ONS (National Electric System Operator) basic regulation, while monitoring operations 24/7 and overseeing preventative and corrective maintenance processes.
- – Utilized data analytics tools to continuously monitor and analyze real-time turbine performance, developing performance dashboards, generating weekly and monthly reports, and identifying opportunities for enhancing performance metrics.
- – Collaborated extensively with Operation and Maintenance (O&M) teams and technical support teams to plan and execute maintenance schedules, actively contributing insights for improved key performance indicators (MTBF, MTTR, etc)
-– Utilizing Python data visualization libraries, employ precise techniques to graph specific parameters, ultimately enhancing the performance of wind turbines.
+### Bachelor in Mechanical Engineering
+- **Universidad Industrial de Santander**, Bucaramanga, Colombia (Jan 2011 - Sept 2019)
+- Thesis: MODELLING OF GUIDED WAVES DISPERSION CURVES ON A PLATE
 
-+**Technical Support Trainee @ Goldwind South America**| * *January 2020 -August 2021* *
- São Paulo, Brazil
- – Develop technical training materials and presentations.
- – Provide support for basic analysis and queries within Goldwind’s SCADA system.
- – Offer assistance in translating and implementing quality processes.
-+**Internship @ SIAR LTDA** January 2019 - July 2019
- Bucaramnga, Colombia
- – Selection of a dehumidifier for warehouse file storage.
- – Overseeing the installation of mechanical extensions for bookshelves.
-+**Interpreter & Helper Guide @ Expotur S.A.S.** | * *January 2019 - July 2019* *
-Santa Marta, Colombia
- – Providing translation assistance for tourists who don’t speak Spanish and taking responsibility for the safety of the
-tourist group during a 4-day hiking tour through multiple camps.
- – Motivate the group to achieve the daily goals in the established times
-+**Intern @ Universidad Industrial de Santnader** | * *January 2018 - July 2018* *
- Bucaramanga, Colombia
- – Maintenance training helping with the Air Conditioning Equipment and the inventory.
- – Develop knowledge in HVAC
+### Student Exchange
+- **Universidad Del Norte**, Barranquilla, Colombia (2014 II – 2015 I)
+- Exchange student for one year
 
+---
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Experience
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Technical Specialist
+**Goldwind South America**, São Paulo, Brazil (August 2021 - Present)
+- Managed a remote operation center team overseeing 500+ MW wind farms in Brazil, Chile, and Greece.
+- Utilized data analytics tools to monitor and analyze real-time turbine performance.
+- Collaborated with Operation and Maintenance (O&M) teams for maintenance planning.
+- Utilized Python data visualization libraries for precise graphing.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Technical Support Trainee
+**Goldwind South America**, São Paulo, Brazil (Jan 2020 - Aug 2021)
+- Developed technical training materials and presentations.
+- Provided support for basic analysis and queries within Goldwind's SCADA system.
+- Assisted in translating and implementing quality processes.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Internship
+**SIAR LTDA**, Bucaramanga, Colombia (Jan 2019 - July 2019)
+- Selection of a dehumidifier for warehouse file storage.
+- Oversaw the installation of mechanical extensions for bookshelves.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Interpreter & Helper Guide
+**Expotur S.A.S.**, Santa Marta, Colombia (Jan 2019 - July 2019)
+- Provided translation assistance for tourists.
+- Took responsibility for the safety of the tourist group during a 4-day hiking tour.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Intern
+**Universidad Industrial de Santander**, Bucaramanga, Colombia (Jan 2018 - July 2018)
+- Maintenance training and assistance with Air Conditioning Equipment.
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+---
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [“Modelling of Guided Waves Dispersion Curves on a plate” Galvis, Leonardo (2019)](https://iopscience.iop.org/article/10.1088/1742-6596/1386/1/012117/pdf) in Institute of Physics.
+
+---
+
+## Projects
+
+### Wind Farm Operation Performance Dashboard
+- Developed a database of descriptive data for monitoring wind farm operations.
+- Created a dashboard to monitor key measures using Power BI.
+- Generated daily, weekly, and monthly reports to track indicators.
+
+### Develop Work Procedures and Instructions
+- Developed general procedures for the remote operation center.
+- Developed specific work instructions following ISO 9001 requirements.
+
+---
+
+## Technical Skills
+
+- **Mechanical Engineering:** Finite Element Analysis (FEA), Vibration Analysis.
+- **Languages:** Python, C++
+- **Data Visualization:** Pandas, Matplotlib, Seaborn, Dash, Plotly
+- **Relational Database:** PostgreSQL
+- **Big Data:** PySpark
+- **Engineering Software:** Ansys, MATLAB, SolidWorks
+- **Office Package:** Word, Excel, Power BI, Visio, PowerPoint, SharePoint
+- **Areas of Interest:** Operation and Maintenance, Technical Support, Data Science, Renewable Energy, Energy Markets.
+
+---
+
+## Languages
+
+- **Spanish:** Native, Bilingual
+- **English:** Fluent, Full Professional
+- **Portuguese:** Fluent, Full Professional
+- **French:** Limited Working
+
+---
+
+## Courses
+
+- **DataCamp:** Analyzing IoT Data In Python, Streamlined Data Ingestion with pandas, Building Dashboards with Dash and Plotly, Introduction to PySpark, Big Data with Spark, GitHub Concepts, Analyzing Business Data in SQL.
+- **Udemy:** Basic-Advanced Photovoltaic Solar Energy, Fast MBA Lead - Leadership and People Management, Microsoft Power BI Desktop for Business Intelligence.
+- **LinkedIn:** Learning Python, Programming Foundations.
+- **Technical University of Denmark:** Wind Energy.
+- **University of Michigan:** Python Data Structures, Programming for Everybody.
+- **Global Wind Organisation:** First Aid, Working at Heights, Manual Handling.
+
+---
+
+*Note: This README is a simplified representation of the original LaTeX document. Some formatting may need adjustment.*
+
