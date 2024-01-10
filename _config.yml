@@ -1,5 +1,16 @@
-title: Leonardo Galvis  
-#logo: /assets/img/headshot_circle.png
-#description: text below image
+# _config.yml
+
+name: Leonardo Galvis
+logo: img/Foto ROC Icon.jpg
+description: Text below the image goes here.
 show_download: false
 theme: jekyll-theme-minimal
+
+# Add the following lines to include LinkedIn, location, and languages
+linkedin: https://www.linkedin.com/in/leonardo-galvis
+location: São Paulo, Brazil
+languages:
+  - Spanish (Native, Bilingual)
+  - English (Fluent, Full Professional)
+  - Portuguese (Fluent, Full Professional)
+  - French (Limited Working)
