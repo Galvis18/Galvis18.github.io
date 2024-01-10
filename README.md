@@ -1,91 +1,150 @@
-## Education
+# The Minimalist theme
 
-- MBA Data Science and Analytics | **USP ESALQ**   | São Paulo, Brazil (Jan 2021 - Dec 2022)
-- B.S. Mechanical Engineering | **Universidad Industrial de Santander** | Bucaramanga, Colombia (Jan 2011 - Sept 2019)
+*Minimalist is a Jekyll theme, inspired by the [Minimal](https://github.com/pages-themes/minimal) theme from GitHub. You can [preview the theme to see what it looks like](http://bdhu.github.io/minimalist), or even [use it today](#usage).*
 
----
+![Demo of Minimalist](https://raw.githubusercontent.com/BDHU/minimalist/main/minimalist.png)
 
-## Experience
+## Usage
 
-### Technical Specialist
-**Goldwind South America**, São Paulo, Brazil (August 2021 - Present)
-- Managed a remote operation center team overseeing 500+ MW wind farms in Brazil, Chile, and Greece.
-- Utilized data analytics tools to monitor and analyze real-time turbine performance.
-- Collaborated with Operation and Maintenance (O&M) teams for maintenance planning.
-- Utilized Python data visualization libraries for precise graphing.
+### Docker
 
-### Technical Support Trainee
-**Goldwind South America**, São Paulo, Brazil (Jan 2020 - Aug 2021)
-- Developed technical training materials and presentations.
-- Provided support for basic analysis and queries within Goldwind's SCADA system.
-- Assisted in translating and implementing quality processes.
+The simplest way is to use a Docker container. For Docker installation instructions, please refer to the offical Docker [docs](https://docs.docker.com/engine/install/). After successful installation, simply execute:
 
-### Internship
-**SIAR LTDA**, Bucaramanga, Colombia (Jan 2019 - July 2019)
-- Selection of a dehumidifier for warehouse file storage.
-- Oversaw the installation of mechanical extensions for bookshelves.
+```bash
+./deploy.sh
+```
 
-### Interpreter & Helper Guide
-**Expotur S.A.S.**, Santa Marta, Colombia (Jan 2019 - July 2019)
-- Provided translation assistance for tourists.
-- Took responsibility for the safety of the tourist group during a 4-day hiking tour.
+### Other Methods
 
-### Intern
-**Universidad Industrial de Santander**, Bucaramanga, Colombia (Jan 2018 - July 2018)
-- Maintenance training and assistance with Air Conditioning Equipment.
+To use the Minimalist theme:
 
----
+1. Add the following line to your Gemfile
 
-## Publications
+```ruby
+gem "jekyll-remote-theme"
+```
 
-- [“Modelling of Guided Waves Dispersion Curves on a plate” Galvis, Leonardo (2019)](https://iopscience.iop.org/article/10.1088/1742-6596/1386/1/012117/pdf) in Institute of Physics.
+then run `bundle install` to install the plugin.
 
----
+2. Add the following to your site's `_config.yml` to activate the plugin:
 
-## Projects
+```yml
+plugins:
+  - jekyll-remote-theme
+```
 
-### Wind Farm Operation Performance Dashboard
-- Developed a database of descriptive data for monitoring wind farm operations.
-- Created a dashboard to monitor key measures using Power BI.
-- Generated daily, weekly, and monthly reports to track indicators.
+Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
 
-### Develop Work Procedures and Instructions
-- Developed general procedures for the remote operation center.
-- Developed specific work instructions following ISO 9001 requirements.
+3. Add the following line to your `config.yml` to use the theme
 
----
+```yml
+remote_theme: BDHU/minimalist
+```
 
-## Technical Skills
+then running `bundle exec jekyll serve` for local deployment. Here is a [demo](https://github.com/BDHU/bdhu.github.io) using this theme.
 
-- **Mechanical Engineering:** Finite Element Analysis (FEA), Vibration Analysis.
-- **Languages:** Python, C++
-- **Data Visualization:** Pandas, Matplotlib, Seaborn, Dash, Plotly
-- **Relational Database:** PostgreSQL
-- **Big Data:** PySpark
-- **Engineering Software:** Ansys, MATLAB, SolidWorks
-- **Office Package:** Word, Excel, Power BI, Visio, PowerPoint, SharePoint
-- **Areas of Interest:** Operation and Maintenance, Technical Support, Data Science, Renewable Energy, Energy Markets.
+An example `_config.yml` file can be found [here](https://github.com/BDHU/bdhu.github.io/blob/master/_config.yml). More info can be found at [Jekyll Remote Theme](https://github.com/benbalter/jekyll-remote-theme).
 
----
+## Customizing
 
-## Languages
+### Configuration variables
 
-- **Spanish:** Native, Bilingual
-- **English:** Fluent, Full Professional
-- **Portuguese:** Fluent, Full Professional
-- **French:** Limited Working
+Minimalist will respect the following variables, if set in your site's `_config.yml`:
 
----
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-## Courses
+Additionally, you may choose to set the following optional variables:
 
-- **DataCamp:** Analyzing IoT Data In Python, Streamlined Data Ingestion with pandas, Building Dashboards with Dash and Plotly, Introduction to PySpark, Big Data with Spark, GitHub Concepts, Analyzing Business Data in SQL.
-- **Udemy:** Basic-Advanced Photovoltaic Solar Energy, Fast MBA Lead - Leadership and People Management, Microsoft Power BI Desktop for Business Intelligence.
-- **LinkedIn:** Learning Python, Programming Foundations.
-- **Technical University of Denmark:** Wind Energy.
-- **University of Michigan:** Python Data Structures, Programming for Everybody.
-- **Global Wind Organisation:** First Aid, Working at Heights, Manual Handling.
+```yml
+google_analytics: [Your Google Analytics tracking ID]
+```
 
----
+Choose light, dark, or automatically adjusting theme based on system theme:
 
-*Note: This README is a simplified representation of the original LaTeX document. Some formatting may need adjustment.*
+```yml
+color-scheme: auto/light/dark
+```
+
+Specify logo for the website:
+
+```yml
+logo: /assets/img/<logo_file>
+```
+
+Enable favicon by putting a `favicon.ico` in the repo's root directory and add the following line in `config.yml`:
+
+```yml
+favicon: true
+```
+
+### Customizing Sidebar
+
+You can define a list of platforms that are linked from the sidebar in `_config.yml`:
+
+```yml
+sidebar:
+  - name: Google Scholar
+    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
+    link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/BDHU
+  - ...
+```
+
+For further customization of the sidebar, go to [sidebar.html](https://github.com/BDHU/minimalist/blob/main/_includes/sidebar.html) in this repo and modify it however you like. The [link-mobile.html](https://github.com/BDHU/minimalist/blob/main/_includes/links-mobile.html) customizes the sidebar's look on mobile devices. This example uses fonts from [font awesome](https://fontawesome.com) and [Iconify](https://iconify.design/). Feel free to explore/find other sources.
+
+### Stylesheet
+
+If you'd like to add your own custom styles:
+
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+
+    ```scss
+    ---
+    ---
+
+    @import "{{ site.theme }}";
+    ```
+
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+
+### Layouts
+
+If you'd like to change the theme's HTML layout:
+
+1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/BDHU/minimalist/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/BDHU/minimalist/blob/master/_layouts/default.html).
+2. For more extensive changes, [copy the original template](https://github.com/BDHU/minimalist/blob/master/_layouts/default.html) from the theme's repository<br/>(*Pro-tip: click "raw" to make copying easier*)
+3. Create a file called `/_layouts/default.html` in your site
+4. Paste the default layout content copied in the first step
+5. Customize the layout as you'd like
+
+For example, this [repository](https://github.com/BDHU/bdhu.github.io) shows how customizations are made on the original theme.
+
+### Customizing Google Analytics code
+
+Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+
+## Previewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/BDHU/minimalist`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+## Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+
+## Contributors
+
+Special thanks to [@godalming123](https://github.com/godalming123) for adding dark mode support. Also thank [@solvaholic](https://github.com/solvaholic), [@tildehacker](https://github.com/tildehacker), and other contributors for making multiple bug fixes and improvements. All contributions are welcome.
