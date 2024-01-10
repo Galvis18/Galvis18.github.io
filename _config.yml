@@ -3,9 +3,14 @@ title: Leonardo Galvis
 logo: img/Foto ROC Icon.jpg
 description: Text below the image goes here.
 show_download: false
-theme: jekyll-theme-minimal
-
-# Add the following lines to include LinkedIn, location, and languages
+linkedin: https://www.linkedin.com/in/leonardo-galvis
+location: São Paulo, Brazil
+languages:
+  - Spanish (Native, Bilingual)
+  - English (Fluent, Full Professional)
+  - Portuguese (Fluent, Full Professional)
+  - French (Limited Working)
+#cv: https://github.com/tu-usuario/tu-repositorio/blob/main/ruta-al-cv/tu-cv.pdf
 sidebar:
   - name: Google Scholar
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
@@ -13,3 +18,4 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/BDHU
+theme: jekyll-theme-minimal
